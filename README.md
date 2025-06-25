@@ -2,6 +2,6 @@
 
 ## Red de senderos en un parque nacional consiste en generar un sendero con el menor impacto ambiental.
 Para la realizacion de este proyecto se utilizo:
-- arquitectura MVC
-- grafos
-- arbol generador minimo al que se le aplica el algoritmo de Kruskal con union-find. 
+- Arquitectura MVC
+- Grafos
+- Arbol generador minimo al que se le aplica el algoritmo de Kruskal con union-find. 
